@@ -10,7 +10,7 @@ Script en pyhon definido como .py que consiste en un menú en terminal que almac
 
 ## Funcionamiento:
 
-1. Compliar y ejecutar el .py
+1. Compilar y ejecutar el .py
 
 La terminal mostrará el siguiente mensaje:
 ```
